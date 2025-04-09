@@ -1,0 +1,21 @@
+Faculty Name,Faculty ID,Faculty Password,Subject Taught,Email,Phone Number,Department,Designation,Qualification,Experience
+Dr. Rajesh Kumar,FAC101,password123,Mathematics,rajesh.kumar@example.com,9876543210,Mathematics,Professor,Ph.D.,15 years
+Ms. Priya Sharma,FAC102,priya@123,Physics,priya.sharma@example.com,8765432109,Physics,Assistant Professor,M.Sc.,8 years
+Dr. Sandeep Verma,FAC103,sandeep!456,Chemistry,sandeep.verma@example.com,7654321098,Chemistry,Associate Professor,Ph.D.,12 years
+Mr. Ankit Yadav,FAC104,ankit_987,Computer Science,ankit.yadav@example.com,6543210987,Computer Science,Lecturer,M.Tech.,5 years
+Ms. Ritu Singh,FAC105,ritu@pass,English,ritu.singh@example.com,5432109876,Humanities,Assistant Professor,MA English,10 years
+Dr. Manish Mehta,FAC106,manish@321,Electronics,manish.mehta@example.com,4321098765,Electronics,Professor,Ph.D.,18 years
+Mr. Sumit Patil,FAC107,sumit@patil,Mechanical Engineering,sumit.patil@example.com,3210987654,Mechanical,Assistant Professor,M.Tech.,7 years
+Dr. Swati Joshi,FAC108,swati@joshi,Artificial Intelligence,swati.joshi@example.com,2109876543,Computer Science,Professor,Ph.D.,20 years
+Mr. Rohan Das,FAC109,rohan@123,Data Science,rohan.das@example.com,1098765432,Computer Science,Associate Professor,M.Tech.,14 years
+Dr. Kavita Nair,FAC110,kavita@nair,Statistics,kavita.nair@example.com,9988776655,Mathematics,Professor,Ph.D.,16 years
+Ms. Aditi Rao,FAC111,aditi@789,Economics,aditi.rao@example.com,8877665544,Humanities,Assistant Professor,MA Economics,9 years
+Mr. Kunal Deshmukh,FAC112,kunal@pass,Robotics,kunal.deshmukh@example.com,7766554433,Mechanical,Lecturer,M.Tech.,6 years
+Dr. Preeti Gupta,FAC113,preeti@123,Biotechnology,preeti.gupta@example.com,6655443322,Biotechnology,Professor,Ph.D.,17 years
+Mr. Akash Malhotra,FAC114,akash@432,Software Engineering,akash.malhotra@example.com,5544332211,Computer Science,Assistant Professor,M.Tech.,8 years
+Dr. Ramesh Babu,FAC115,ramesh@babu,Electrical Machines,ramesh.babu@example.com,4433221100,Electrical,Professor,Ph.D.,19 years
+Ms. Neha Arora,FAC116,neha@arora,Microelectronics,neha.arora@example.com,3322110099,Electronics,Associate Professor,M.Tech.,13 years
+Mr. Saurabh Pandey,FAC117,saurabh@pass,Automobile Engineering,saurabh.pandey@example.com,2211009988,Mechanical,Lecturer,M.Tech.,5 years
+Mr. Vikas Choudhary,FAC119,vikas@123,Signal Processing,vikas.choudhary@example.com,9988771122,Electronics,Assistant Professor,M.Tech.,7 years
+Dr. Shalini Reddy,FAC120,shalini@reddy,Machine Learning,shalini.reddy@example.com,8877662233,Computer Science,Professor,Ph.D.,18 years
+Shivnarayan,FAC121,shiva,wireless,shiva@gmail.com,848392984,ECE,Exam Cell head,Biotechnology,10

@@ -1,0 +1,55 @@
+Interface:
+    1) Student
+    3) Admin
+
+Student Interface:
+    1)Register 
+        ->Name
+        ->Date of birth 
+        ->Roll Number 
+        ->Semester 
+        ->Pass word  for accesing the id . 
+    2)Courses assigned 
+        ->Display the number of the courses assigned to the student 
+    2)Display details of student . 
+        ->enter roll no and i password to see the details 
+    4)Grade Card 
+
+    Note: Make a excel file and store all the data there related to student 
+
+Admin  Interface:
+    1)Management student  
+        ->Add student 
+        ->Update student 
+        ->Delete student 
+    2) Assign courses to student 
+
+    3) Give grade to student
+
+    4) View total number of student list 
+
+    5) Search student by roll no and name 
+
+    6) View Grades: View and edit student grades if necessary.
+     
+
+
+Hostel
+    ->Student 
+        Student can see the room number hostel name
+    ->Admin 
+        Admin can set assign the room number and hostel to the student 
+
+
+Faculty:
+    ->Faculty Name 
+    ->Faculty id
+    ->Faculty password
+    ->Subject Taught
+    ->Email 
+    ->Phone number 
+    ->Department
+    ->designation
+    ->Qualification 
+    ->Experiance 
+
